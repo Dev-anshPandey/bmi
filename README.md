@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+Calcuates the bmi taking height and weight as input .
 
 ## Getting Started
 
